@@ -4,3 +4,4 @@
 ```
 pip install mkdocs
 ```
+![](assets/使用mkdocs将本地md文档部署为线上网页/file-20251218000459.png)
