@@ -1,0 +1,7 @@
+site_name: 我的技术文档
+site_url: https://yourname.github.io/
+site_description: 一个基于 MkDocs + Material 的文档站点
+site_author: Your Name
+
+theme:
+  name: material
