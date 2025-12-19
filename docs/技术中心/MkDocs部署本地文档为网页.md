@@ -12,7 +12,9 @@ git@github.com:dtmcc/blog.git
 pip install mkdocs
 ```
 - 创建一个 python项目
+
 ![](./assets/20251219_1928.png)
+
   - docs为 mkdocs 原始的md文件目录
   - site为 mkdocs 执行build命令后 生成的文件目录
   - 命令
