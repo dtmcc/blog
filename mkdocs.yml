@@ -1,6 +1,6 @@
 site_name: 我的博客
 site_url: https://ku.dtm.cc/
-site_description: 一个基于 MkDocs + Material 的文档站点
+site_description: 基于 MkDocs + Material 的文档站点
 site_author: Liang Hao
 
 theme:
