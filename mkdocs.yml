@@ -5,3 +5,6 @@ site_author: Liang Hao
 
 theme:
   name: material
+
+extra_css:
+  - stylesheets/juejin.css
